@@ -74,6 +74,7 @@ def menu():
         listadodeproductos()
     elif opc == "4":
         salir()
+        print("Programa finalizado")
         exit()
     else:
         print("Debe seleccionar una opción válida!!")
