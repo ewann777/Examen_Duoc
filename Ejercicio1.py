@@ -60,6 +60,7 @@ def menu():
         print("--- 2.- Búsqueda Por Precio ---")
         print("--- 3.- Listado De Productos ---")
         print("--- 4.- Salir ---")
+        print("Cambio de menú")
         try:
             opc = input("Ingrese una opción (1 a 4): ")
             break
