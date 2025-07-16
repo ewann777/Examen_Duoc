@@ -13,6 +13,7 @@ stock ={      '8475HD': [387990,10], '2175HD': [327990,4], 'JjfFHD': [424990,1],
               'GF75HD': [749990,2], 'UWU131HD': [349990,1], 'FS1230HD': [249990,0],
                  }
 
+print("Hola profesor")
 def mostrarstockmarca():
     print("--------------------------------")
     print("--- BUSCANDO STOCK POR MARCA ---")
